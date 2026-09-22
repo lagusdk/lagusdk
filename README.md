@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm lagusdk
+# 👋 Hi, I'm HYEONA
+
+라현아 · La Hyeon-A · ラ・ヒョナ · 罗炫我
 
 ### Student Developer interested in Interactive Web, Game Development, and Real-time 3D
 
